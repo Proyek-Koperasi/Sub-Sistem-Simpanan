@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost:81/kelompok4';
+$config['base_url']	= 'http://localhost/kelompok4';
 $config['fonts_path']= 'system/font/';
 
 /*
